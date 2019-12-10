@@ -1,7 +1,5 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
+**Project Issue Tracker** - Information Security and Quality Assurance - **FreeCodeCamp**
 ------------------
-
-Project Issue Tracker
 
 1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file
 2) Complete the project in `routes/api.js` or by creating a handler/controller
@@ -11,8 +9,6 @@ Project Issue Tracker
 Project url: https://tinted-foxtrot.glitch.me
 
 TODO: CSS
-
-source: https://github.com/subajat1/fcc_issue_tracker
 
 Made by [Glitch](https://glitch.com/)
 -------------------
